@@ -63,7 +63,7 @@ Azure Content Understanding includes prebuilt **Read** and **Layout** analyzers 
 ### Use the Layout analyzer in the playground
 
 1. In the [Microsoft Foundry portal](https://ai.azure.com), make sure the **New Foundry** toggle is on.
-1. Select **Build** in the upper-right menu, then select **Models** in the left pane.
+1. Select **Build** in the upper-right menu, then select **Deployments** in the left pane.
 1. Select the **AI Services** tab to view the prebuilt models provided by Foundry Tools.
 1. Find and select **Azure Content Understanding - Layout**.
 
