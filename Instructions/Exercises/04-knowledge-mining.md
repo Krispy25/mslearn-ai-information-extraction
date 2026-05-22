@@ -56,8 +56,6 @@ Your knowledge mining solution will extract information from travel brochure doc
     - **Anonymous access level**: Private (no anonymous access)
 1. Select the **documents** container, and use the **Upload** toolbar button to upload the .pdf files you extracted from **documents.zip**.
 
-    ![TODO: New screenshot of the Azure storage browser with the documents container and its file contents.](./media/blob-containers.png)
-
 ## Create and run an indexer
 
 Now that you have the documents in place, you can create an indexer to use AI skills to extract information from them.
